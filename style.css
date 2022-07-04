@@ -47,3 +47,45 @@ button {
     background-repeat: no-repeat;
     background-position: right;
 }
+
+.last-banner {
+    background-image: url(image/images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+}
+
+.experiences {
+    padding: 10px 5px 20px 20px;
+    text-align: justify;
+    margin-left: 5%;
+    width: 50%;
+    background-color: rgb(243, 236, 236);
+    box-shadow: 10x;
+}
+
+.inline {
+    width: 100%;
+    float: none;
+}
+
+h5 {
+    color: orange;
+}
+
+.full-stack {
+    background-image: linear-gradient(red, orange);
+    background-size: 8px;
+    background-position: left;
+    background-repeat: no-repeat;
+    width: 40%;
+
+}
+
+
+.baby-dev {
+    background-image: linear-gradient(blue, rgb(16, 196, 241));
+    background-size: 8px;
+    background-position: left;
+    background-repeat: no-repeat;
+    width: 40%;
+}
