@@ -37,6 +37,13 @@ button {
     font-size: 15px;
     font-weight: 700;
     color: white;
+
+}
+
+button:hover {
+    border: 2px solid orange;
+    cursor: pointer;
+
 }
 
 .top-banner {
